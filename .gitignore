@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.duckdb
+
+# Project 2 - temporarily excluded
+Projects/02_DATA_WAREHOUSE/
